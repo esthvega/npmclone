@@ -1,0 +1,220 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 17px;
+
+}
+
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding: 3px;
+  height: 50px;
+  font-size: 17px;
+}
+
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  padding: 3px;
+}
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 20px 0px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-left {
+  display: inline-block;
+  float: left;
+  padding: 0;
+  margin: 20px 0px 0 0;
+}
+
+.header {
+  background: rgb(32, 101, 136);
+  color: white;
+  background-image: url("city-scape.svg");
+  background-position: 0.0;
+  background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px 0px 0px 0px;
+    position: relative;
+    height: 300px;
+}
+
+header a {  
+  
+  color: white;
+  text-decoration: none;
+  padding: 3px;
+
+}
+.container-1 { 
+  width: 10%;
+  margin: 12px 0 auto; 
+  height: 0 auto;
+  float: left;
+  }
+
+
+.container-2 {
+  width: 60%;
+  margin: auto 10px auto 10px;
+  height: auto;
+  float: left;
+
+}
+
+.container-3 {
+  width: 10%;
+  height: 0 auto;
+  float: left;
+  margin: 30px 0px auto 140px;
+}
+  .input {
+    background: rgb(31, 82, 111);
+    border: 1px solid rgba(255,255,255,0.2);
+    margin: 15px;
+    padding: 3px;
+    padding-left: 15px;
+    font-size: 1em;
+    display: block;
+    outline: 0;
+    height: 2.000em;
+  
+  }
+.bear {
+  width: 35px;
+  margin: 20px 20px 0px 0px;
+} 
+.build {
+/*font-size: 12px; */
+margin-left: 23%;
+margin-right: 50%;
+ margin-bottom: 5vh;
+position: absolute;
+}
+
+.orange-button {
+  background-color:  rgb(240, 146, 51);
+  border-color: transparent;
+  color: white;
+  text-align: center;
+  padding: 7px;
+  border-radius: 20px;
+  }
+
+.collaboration {
+ width: 0 auto;
+  padding: 0 auto;
+  margin: 0 auto; 
+  background-color: rgb(39, 53, 71);
+  color: white;
+  height: 50vh;
+  font-size: 12px;
+
+}
+
+.collaboration-imagen {
+  width: 400px;
+  margin: 25px 0px 25px 151px; 
+  padding: 0 auto;
+  float: left;
+}
+
+.npm-h2 {
+  width: 50%;
+  margin: 20px 100px 0px 0px;
+  padding: 0 auto;
+ float: right;
+}
+.text-design {
+  /*width: 20%;*/
+text-decoration-line: none;
+float: right;
+margin: 0 400px 20px 0px;
+}
+.container-4 {
+  width: auto;
+margin: 0 auto 0 620px;
+
+
+}
+.red-button {
+  background-color:  #C12127;
+  border-color: transparent;
+  color: white;
+  text-align: center;
+  padding: 7px;
+  border-radius: 20px;
+  }
+
+.about-orgs {
+  text-decoration-line: none;
+  color: white;
+  font-style: normal;
+
+}
+
+.what-is-npm {
+background-image: url("forklift.svg");
+background-position: relative;
+background-repeat: no-repeat;
+  background-size: cover;
+  padding: 25px 0px 0px 0px;
+  position: relative;
+  height: 300px;
+
+}
+
+.what-is-npm-txt {
+  color: white;
+  position: absolute;
+  width: 30%;
+  margin: 30px 0 0 220px;
+}
+
+.install-button {
+  background-color:  rgb(46, 68, 88);
+  border-color: transparent;
+  color: white;
+  text-align: center;
+  padding: 7px;
+  border-radius: 20px;
+  }
+
+.what-can-you-make {
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: center
+}
+
+.container-images {
+  width: 33%;
+  margin: 0 auto;
+  height: 0 auto;
+    float: left;
+    padding: 0 auto;
+    text-align: center;
+    font-size: 1em;
+}
+
+.container-txt {
+  width: 40%;
+  margin: 0 30%;
+}
+
+.links-find {
+  text-decoration-line: none;
+  color:  #C12127;
+  font-style: normal;
+}
+
